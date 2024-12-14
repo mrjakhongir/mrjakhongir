@@ -1,4 +1,4 @@
-[MasterHead](https://4kwallpapers.com/images/wallpapers/coder-amoled-black-3440x1440-13668.png)
+![logo](https://github.com/mrjakhongir/mrjakhongir/blob/main/coder.png)
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" src="https://4kwallpapers.com/images/wallpapers/coder-amoled-black-3440x1440-13668.png" >
