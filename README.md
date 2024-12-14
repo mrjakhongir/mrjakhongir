@@ -5,7 +5,6 @@
  
  ![](https://github-readme-stats.vercel.app/api?username=mrjakhongir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrjakhongir&show_icons=true&locale=en&layout=compact" alt="mrjakhongir" />
- <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> 
 </div>
 
 
