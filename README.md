@@ -39,25 +39,25 @@
 
 <p align="center">
   <a href='https://github.com/mrjakhongir/momentum_clone'>
-    <img width="330px" src="./momentum.png" />
+    <img width="30%" src="./momentum.png" />
   </a>
   <a href='https://github.com/mrjakhongir/coffee-house/tree/main'>
-    <img width="330px" src="./coffe.png" />
+    <img width="30%" src="./coffe.png" />
   </a>
  <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
-    <img width="330px" src="./nonograms.png" />
+    <img width="30%" src="./nonograms.png" />
   </a>
 </p>
 
 <p align="center">
   <a href='https://github.com/mrjakhongir/maxproduct'>
-    <img width="330px" src="./maxproduct.png" />
+    <img width="30%" src="./maxproduct.png" />
   </a>
   <a href='https://github.com/mrjakhongir/udevs'>
-    <img width="330px" src="./udevs.png" />
+    <img width="30%" src="./udevs.png" />
   </a>
  <a href='https://antikdecor.ru/'>
-    <img width="330px" src="./antikdecor.png" />
+    <img width="30%" src="./antikdecor.png" />
   </a>
 </p>
 
