@@ -38,11 +38,11 @@
 <h2>Projects</h2>
 
 <p align="left">
-  <a href='/Frontend Projects/01-single-page-cv/'>
-    <img width="48%" src="./assets/images/single-page-cv.png" alt="single page cv" />
+  <a href=''>
+    <img width="48%" src="./momentum.png" />
   </a>
   <a href='/Frontend Projects/02-basic-html-website/'>
-    <img width="48%" src="./assets/images/basic-html-website.png" alt="basic html website" />
+    <img width="48%" src="./coffe.png" />
   </a>
 </p>
 
