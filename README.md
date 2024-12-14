@@ -2,14 +2,27 @@
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<img align="right" src="https://github.com/mrjakhongir/mrjakhongir/blob/main/me.jpg" width="400">
+<img align="right" src="https://github.com/mrjakhongir/mrjakhongir/blob/main/me.jpg" width="425">
 
 ![](https://github-readme-stats.vercel.app/api?username=mrjakhongir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-📑 [Review my CV](https://mrjakhongir.netlify.app/)<br>
+📑 Review my [CV](https://mrjakhongir.netlify.app/)<br>
 
-<h2 align="left">💬 About me</h2>
+<h2 align="left">Contacts</h2>
+
+- ☎️ +998 93 313-88-99
+- 📩 nusratovjahongir@gmail.com
+- ➤ [@mr_jakhongir](https://t.me/mr_jakhongir)
+- 🔗 [nusratov-jahongir](www.linkedin.com/in/jahongir-nusratov)
+
+<h2 align="left">About me</h2>
 <p>I am a skilled fullstack web developer and freelancer from Bukhara. With over 2 years of experience, specialized in React and Next.js, including server-side rendering, and have expertise in TypeScript, Tailwind CSS. Known for creating responsive and dynamic web applications, I am passionate about delivering high-quality solutions tailored to client needs. Outside of coding, I am a book lover and bring a focused and determined approach to both work and life.</p>
+
+<h2>Education</h2>
+
+- 🎓 Bachelor degree in Automation Engineering - [Bukhara Engineering Technological Institute](https://bmti.uz/)
+- 📜 The Frontend Developer Career Path: [certificate](https://v1.scrimba.com/certificate/u7EQyehW/gfrontend)
+- 📜 The Complete 2024 Web Development Bootcamp: [certificate](https://www.udemy.com/certificate/UC-a157eb48-abfc-46af-9864-d99eaa19de0f/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
