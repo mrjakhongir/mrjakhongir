@@ -1,35 +1,15 @@
 ![logo](https://github.com/mrjakhongir/mrjakhongir/blob/main/coder.png)
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" src="https://4kwallpapers.com/images/wallpapers/coder-amoled-black-3440x1440-13668.png" >
 
-- 🌱 I’m currently learning **Strapi, WebSocket**
+<img align="right" src="https://github.com/mrjakhongir/mrjakhongir/blob/main/me.jpg" width="400">
 
-- 👨‍💻 All of my projects are available at [https://mrjakhongir.netlify.app/](https://mrjakhongir.netlify.app/)
+![](https://github-readme-stats.vercel.app/api?username=mrjakhongir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-- 💬 Ask me about **ES6, React, TypeScript, Next.js**
+📑 [Review my CV](https://mrjakhongir.netlify.app/)<br>
 
-- 📫 How to reach me **nusratovjahongir@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jahongir-nusratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahongir-nusratov" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrjakhongir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrjakhongir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com//mrjakhongir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/mrjakhongir" height="30" width="40" /></a>
-</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>hello</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>word</td>
-    </tr>
-  </tbody>
-</table>
+<h2 align="left">💬 About me</h2>
+<p>I am a skilled fullstack web developer and freelancer from Bukhara. With over 2 years of experience, specialized in React and Next.js, including server-side rendering, and have expertise in TypeScript, Tailwind CSS. Known for creating responsive and dynamic web applications, I am passionate about delivering high-quality solutions tailored to client needs. Outside of coding, I am a book lover and bring a focused and determined approach to both work and life.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
