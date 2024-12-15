@@ -70,5 +70,34 @@
 - 📜 The Frontend Developer Career Path: [certificate](https://v1.scrimba.com/certificate/u7EQyehW/gfrontend)
 - 📜 The Complete 2024 Web Development Bootcamp: [certificate](https://www.udemy.com/certificate/UC-a157eb48-abfc-46af-9864-d99eaa19de0f/)
 
+<h2>Sertifications</h2>
+
+- [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/certificates/9e337fd0bbaca3a3e046f1dfe0c936eaa805a21d8d312abd3dd8d37292517506?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bz%2FfFtR%2BLQ4yORXh5rth6EQ%3D%3D)
+- [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/certificates/ef745e4617bd6ac8e38b7818735bbfeb2962e7f5a07c22138fcf25d00117d71c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bq8B%2FnrSYR0y6HcEvx24OvQ%3D%3D)
+- [CSS (Basic)](https://www.hackerrank.com/certificates/1e5c5e7ee13a)
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/6e0c0cdfef63)
+- [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/b3c5f28eec64)
+- [React (Basic)](https://www.hackerrank.com/certificates/d6f81bc6d0dc)
+- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/a21699ffe8bb)
+
+<h2>Honors</h2>
+
+<p>Codewars: <img align="center" src="https://www.codewars.com/users/mrjakhongir/badges/large"/></p>
+
+LeetCode: [visit](https://leetcode.com/u/mrJakhongir/)
+
+HackerRank: [visit](https://www.hackerrank.com/profile/mrjakhongir)
+
+Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
+
+1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/BTG5M5GD?sharingId=1E29DCDAA54BBED2)
+2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/ZM4EEJE2?sharingId=1E29DCDAA54BBED2)
+3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/HNRXGXA8?sharingId=1E29DCDAA54BBED2)
+4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/3WTJSGKH?sharingId=1E29DCDAA54BBED2)
+5. **Declare and Instantiate Classes in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/KJLT8WTB?sharingId=1E29DCDAA54BBED2)
+6. **Generics in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/8FAYYVRW?sharingId=1E29DCDAA54BBED2)
+7. **Work with External Libraries in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/UF5WVMX3?sharingId=1E29DCDAA54BBED2)
+8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-gb/mrjakhongir/UF5WJAS3?sharingId=1E29DCDAA54BBED2)
+
 ![logo](https://github.com/mrjakhongir/mrjakhongir/blob/main/coder.png)
 
