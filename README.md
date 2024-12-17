@@ -47,9 +47,6 @@
  <a href='[https://github.com/mrjakhongir/coffee-house/tree/main](https://rolling-scopes-school.github.io/mrjakhongir-JSFEEN2024Q4/christmas-shop/)'>
     <img width="30%" src="./christmas.png" />
   </a>
- <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
-    <img width="30%" src="./nonograms.png" />
-  </a>
 </p>
 
 <p align="center">
@@ -61,6 +58,9 @@
   </a>
  <a href='https://antikdecor.ru/'>
     <img width="30%" src="./antikdecor.png" />
+  </a>
+ <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
+    <img width="30%" src="./nonograms.png" />
   </a>
 </p>
 
