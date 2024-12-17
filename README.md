@@ -46,11 +46,13 @@
     <img width="24%" src="./nonograms.png" />
   </a>
 </p>
+<hr/>
 
 <div>
 
   ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
 </div>
 
 <p align="left">
@@ -58,12 +60,14 @@
     <img width="24%" src="./antikdecor.png" />
   </a>
 </p>
+<hr/>
 
 <div>
 
   ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
 </div>
 
 <p align="left">
@@ -71,6 +75,7 @@
     <img width="24%" src="./maxproduct.png" />
   </a>
 </p>
+<hr/>
 
 <div>
 
