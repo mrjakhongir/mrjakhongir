@@ -61,51 +61,39 @@
 
 <div>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
 
-<p align="center">
-  <a href='https://github.com/mrjakhongir/maxproduct'>
-    <img width="30%" src="./maxproduct.png" />
-  </a>
+<p align="left">
  <a href='https://antikdecor.ru/'>
-    <img width="30%" src="./antikdecor.png" />
+    <img width="24%" src="./antikdecor.png" />
   </a>
 </p>
 
 <div>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-1DA1F2.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
 
-<p align="center">
+<p align="left">
   <a href='https://github.com/mrjakhongir/maxproduct'>
-    <img width="30%" src="./maxproduct.png" />
-  </a>
- <a href='https://antikdecor.ru/'>
-    <img width="30%" src="./antikdecor.png" />
+    <img width="24%" src="./maxproduct.png" />
   </a>
 </p>
 
 <div>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-cc6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-1DA1F2.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next](https://img.shields.io/badge/next.js-292929.svg?style=for-the-badge&logo=next.js&logoColor=white)
 </div>
 
-<p align="center">
+<p align="left">
   <a href='https://github.com/mrjakhongir/udevs'>
-    <img width="30%" src="./udevs.png" />
+    <img width="24%" src="./udevs.png" />
   </a>
 </p>
 
