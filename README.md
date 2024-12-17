@@ -61,7 +61,7 @@
 
 <div>
 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-1DA1F2.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </div>
@@ -74,7 +74,7 @@
 
 <div>
 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-1DA1F2.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 </div>
