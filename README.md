@@ -44,7 +44,7 @@
   <a href='https://github.com/mrjakhongir/coffee-house/tree/main'>
     <img width="30%" src="./coffe.png" />
   </a>
- <a href='[https://github.com/mrjakhongir/coffee-house/tree/main](https://rolling-scopes-school.github.io/mrjakhongir-JSFEEN2024Q4/christmas-shop/)'>
+ <a href='https://rolling-scopes-school.github.io/mrjakhongir-JSFEEN2024Q4/christmas-shop/'>
     <img width="30%" src="./christmas.png" />
   </a>
 </p>
