@@ -98,7 +98,7 @@
 - 🎓 Bachelor degree in Automation Engineering - [Bukhara Engineering Technological Institute](https://bmti.uz/)
 - 📜 The Frontend Developer Career Path: [certificate](https://v1.scrimba.com/certificate/u7EQyehW/gfrontend)
 - 📜 The Complete 2024 Web Development Bootcamp: [certificate](https://www.udemy.com/certificate/UC-a157eb48-abfc-46af-9864-d99eaa19de0f/)
-- 📜 [RsSchool](https://rs.school/courses/javascript): ongoing
+- 📜 JavaScript / Front-end Course: [ongoing](https://rs.school/courses/javascript)
 
 <h2>Sertifications</h2>
 
