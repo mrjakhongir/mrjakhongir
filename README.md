@@ -48,6 +48,9 @@
  <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
     <img width="24%" src="./nonograms.png" />
   </a>
+ <a href='[https://mr-jakhongir-nonograms-game.netlify.app/](https://hangmanrsschool.netlify.app/)'>
+    <img width="24%" src="./nonograms.png" />
+  </a>
 </p>
 <hr/>
 
