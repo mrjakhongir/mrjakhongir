@@ -42,7 +42,7 @@
   <a href='https://github.com/mrjakhongir/coffee-house/tree/main'>
     <img width="24%" src="./coffe.png" />
   </a>
- <a href='https://rolling-scopes-school.github.io/mrjakhongir-JSFEEN2024Q4/christmas-shop/'>
+ <a href='https://github.com/mrjakhongir/christmas-shop/tree/main'>
     <img width="24%" src="./christmas.png" />
   </a>
  <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
