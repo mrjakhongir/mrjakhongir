@@ -96,6 +96,22 @@
   </a>
 </p>
 
+<div>
+
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-FFA000.svg?style=for-the-badge&logo=firebase&logoColor=white)
+</div>
+
+<p align="left">
+  <a href='https://github.com/mrjakhongir/maxproduct-new'>
+    <img width="24%" src="./maxproduct-new.png" />
+  </a>
+</p>
+<hr/>
+
 <h2 align="left">About me</h2>
 <p>I am a skilled fullstack web developer and freelancer from Bukhara. With over 2 years of experience, specialized in React and Next.js, including server-side rendering, and have expertise in TypeScript, Tailwind CSS. Known for creating responsive and dynamic web applications, I am passionate about delivering high-quality solutions tailored to client needs. Outside of coding, I am a book lover and bring a focused and determined approach to both work and life.</p>
 
