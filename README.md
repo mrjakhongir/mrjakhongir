@@ -51,6 +51,9 @@
  <a href='https://hangmanrsschool.netlify.app'>
     <img width="24%" src="./hangman.png" />
   </a>
+ <a href='[https://hangmanrsschool.netlify.app](https://github.com/mrjakhongir/cv)'>
+    <img width="24%" src="./cv.png" />
+  </a>
 </p>
 <hr/>
 
