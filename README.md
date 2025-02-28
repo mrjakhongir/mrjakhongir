@@ -98,6 +98,7 @@
     <img width="24%" src="./udevs.png" />
   </a>
 </p>
+<hr/>
 
 <div>
 
@@ -137,7 +138,7 @@
 
 <h2>Honors</h2>
 
-<p>Codewars: <img align="center" src="https://www.codewars.com/users/mrjakhongir/badges/large"/></p>
+<p>Codewars: <img align="center" src="https://www.codewars.com/users/rsschool_24c553a055e73bab/badges/large"/></p>
 
 LeetCode: [visit](https://leetcode.com/u/mrJakhongir/)
 
