@@ -49,9 +49,9 @@
     <img width="24%" src="./nonograms.png" />
   </a>
  <a href='https://hangmanrsschool.netlify.app'>
-    <img width="24%" src="./hangman.png" />
+    <img width="24%" src="./hangman.png" height="260px"/>
   </a>
- <a href='[https://hangmanrsschool.netlify.app](https://github.com/mrjakhongir/cv)'>
+ <a href='https://github.com/mrjakhongir/cv'>
     <img width="24%" src="./cv.png" />
   </a>
 </p>
