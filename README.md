@@ -26,6 +26,16 @@
  </a>
 </div>
 
+<h2 align="left">Currently</h2>
+<h4>Working on:</h4>
+
+- [UTAS](https://utas.uz/) - university website. Tech Stack: Next.js (pages router) | Chakra UI | SCSS | Redux | Tanstack Query
+- [Osnova](https://my.osnovaedu.uz/) - online course selling market. Tech Stack: React | Chakra UI | SCSS | ReduxToolkit | Tanstack Query
+
+ <h4>Studying at:</h4>
+ 
+ - [React Course · RS School 2025 Q3] - [link](https://wearecommunity.io/events/rs-react-2025q3)
+
 <h2>Projects</h2>
 
 <div>
@@ -117,14 +127,14 @@
 <hr/>
 
 <h2 align="left">About me</h2>
-<p>I am a skilled fullstack web developer and freelancer from Bukhara. With over 2 years of experience, specialized in React and Next.js, including server-side rendering, and have expertise in TypeScript, Tailwind CSS. Known for creating responsive and dynamic web applications, I am passionate about delivering high-quality solutions tailored to client needs. Outside of coding, I am a book lover and bring a focused and determined approach to both work and life.</p>
+<p>I am a enthusiastic fullstack web developer and freelancer. With over 2 years of experience, specialized in React and Next.js, including server-side rendering, and have expertise in TypeScript, Tailwind CSS. Known for creating responsive and dynamic web applications, I am passionate about delivering high-quality solutions tailored to client needs. Outside of coding, I am a book lover and bring a focused and determined approach to both work and life.</p>
 
 <h2>Education</h2>
 
 - 🎓 Bachelor degree in Automation Engineering - [Bukhara Engineering Technological Institute](https://bmti.uz/)
 - 📜 The Frontend Developer Career Path: [certificate](https://v1.scrimba.com/certificate/u7EQyehW/gfrontend)
 - 📜 The Complete 2024 Web Development Bootcamp: [certificate](https://www.udemy.com/certificate/UC-a157eb48-abfc-46af-9864-d99eaa19de0f/)
-- 📜 JavaScript / Front-end Course: [ongoing](https://rs.school/courses/javascript)
+- 📜 JavaScript / Front-end Course (rs.school): [certificate](https://app.rs.school/certificate/q1x43opf)
 
 <h2>Sertifications</h2>
 
