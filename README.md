@@ -135,6 +135,7 @@
 - 📜 The Frontend Developer Career Path: [certificate](https://v1.scrimba.com/certificate/u7EQyehW/gfrontend)
 - 📜 The Complete 2024 Web Development Bootcamp: [certificate](https://www.udemy.com/certificate/UC-a157eb48-abfc-46af-9864-d99eaa19de0f/)
 - 📜 JavaScript / Front-end Course (rs.school): [certificate](https://app.rs.school/certificate/q1x43opf)
+- 📜 the Beginner level JavaScript training (epam): [certificate](https://drive.google.com/file/d/1P3HtiMXp7fbvmcZaktTTTNL32uoVfVQF/view)
 
 <h2>Sertifications</h2>
 
