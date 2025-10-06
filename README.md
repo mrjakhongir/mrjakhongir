@@ -29,8 +29,7 @@
 <h2 align="left">Currently</h2>
 <h4>Working on:</h4>
 
-- [UTAS](https://utas.uz/) - university website. Tech Stack: Next.js (pages router) | Chakra UI | SCSS | Redux | Tanstack Query
-- [Osnova](https://my.osnovaedu.uz/) - online course selling market. Tech Stack: React | Chakra UI | SCSS | ReduxToolkit | Tanstack Query
+- Finance ERP - udevs.io fincance. Tech Stack: React | Chakra UI | SCSS | Zustand | Tanstack Query | AG Grid
 
  <h4>Studying at:</h4>
  
