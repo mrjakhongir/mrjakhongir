@@ -107,6 +107,9 @@
   <a href='https://github.com/mrjakhongir/udevs'>
     <img width="24%" src="./udevs.png" />
   </a>
+ <a href='https://utas.uz/'>
+    <img width="24%" src="./utas" />
+ </a>
 </p>
 <hr/>
 
