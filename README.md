@@ -77,7 +77,10 @@
 <p align="left">
  <a href='https://antikdecor.ru/'>
     <img width="24%" src="./antikdecor.png" />
-  </a>
+ </a>
+  <a href='https://my.osnovaedu.uz/student/courses'>
+    <img width="24%" src="./osnova-1.png" />
+ </a>
 </p>
 <hr/>
 
@@ -108,7 +111,7 @@
     <img width="24%" src="./udevs.png" />
   </a>
  <a href='https://utas.uz/'>
-    <img width="24%" src="./utas" />
+    <img width="24%" src="./utas.png" />
  </a>
 </p>
 <hr/>
