@@ -39,43 +39,33 @@
 
 <div>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-FFA000.svg?style=for-the-badge&logo=firebase&logoColor=white)
 </div>
 
-<p>
-  <a href='https://github.com/mrjakhongir/momentum_clone'>
-    <img width="24%" src="./momentum.png" />
-  </a>
-  <a href='https://github.com/mrjakhongir/coffee-house/tree/main'>
-    <img width="24%" src="./coffe.png" />
-  </a>
- <a href='https://github.com/mrjakhongir/christmas-shop/tree/main'>
-    <img width="24%" src="./christmas.png" />
-  </a>
- <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
-    <img width="24%" src="./nonograms.png" />
-  </a>
- <a href='https://hangmanrsschool.netlify.app'>
-    <img width="24%" src="./hangman.png" height="260px"/>
-  </a>
- <a href='https://github.com/mrjakhongir/cv'>
-    <img width="24%" src="./cv.png" />
+<p align="left">
+  <a href='https://github.com/mrjakhongir/maxproduct-new'>
+    <img width="24%" src="./maxproduct-new.png" />
   </a>
 </p>
 <hr/>
 
 <div>
 
-  ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 </div>
 
 <p align="left">
- <a href='https://antikdecor.ru/'>
-    <img width="24%" src="./antikdecor.png" />
+  <a href='https://github.com/mrjakhongir/udevs'>
+    <img width="24%" src="./udevs.png" />
+  </a>
+ <a href='https://utas.uz/'>
+    <img width="24%" src="./utas.png" />
  </a>
   <a href='https://my.osnovaedu.uz/student/courses'>
     <img width="24%" src="./osnova-1.png" />
@@ -100,33 +90,43 @@
 
 <div>
 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Sass](https://img.shields.io/badge/sass-cc6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
 </div>
 
 <p align="left">
-  <a href='https://github.com/mrjakhongir/udevs'>
-    <img width="24%" src="./udevs.png" />
-  </a>
- <a href='https://utas.uz/'>
-    <img width="24%" src="./utas.png" />
+ <a href='https://antikdecor.ru/'>
+    <img width="24%" src="./antikdecor.png" />
  </a>
 </p>
 <hr/>
 
 <div>
 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=1DA1F2)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-7649bb.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-FFA000.svg?style=for-the-badge&logo=firebase&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </div>
 
-<p align="left">
-  <a href='https://github.com/mrjakhongir/maxproduct-new'>
-    <img width="24%" src="./maxproduct-new.png" />
+<p>
+  <a href='https://github.com/mrjakhongir/momentum_clone'>
+    <img width="24%" src="./momentum.png" />
+  </a>
+  <a href='https://github.com/mrjakhongir/coffee-house/tree/main'>
+    <img width="24%" src="./coffe.png" />
+  </a>
+ <a href='https://github.com/mrjakhongir/christmas-shop/tree/main'>
+    <img width="24%" src="./christmas.png" />
+  </a>
+ <a href='https://mr-jakhongir-nonograms-game.netlify.app/'>
+    <img width="24%" src="./nonograms.png" />
+  </a>
+ <a href='https://hangmanrsschool.netlify.app'>
+    <img width="24%" src="./hangman.png" height="260px"/>
+  </a>
+ <a href='https://github.com/mrjakhongir/cv'>
+    <img width="24%" src="./cv.png" />
   </a>
 </p>
 <hr/>
