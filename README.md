@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
-<div align="left">
- 
- ![](https://github-readme-stats.vercel.app/api?username=mrjakhongir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrjakhongir&show_icons=true&locale=en&layout=compact" alt="mrjakhongir" />
- 
- <a href="https://mrjakhongir.hackerresume.io/33e882b7-c19b-49b5-b827-7353ae305422">
-  <img src="https://img.shields.io/badge/See_my-Resume-blue" alt="resume"/>
- </a>
-</div>
+<p align="left">
+  <img width="24%" src="./me.jpg" />
+</p>
+<hr/>
 
 <h2 align="left">Contacts</h2>
 
