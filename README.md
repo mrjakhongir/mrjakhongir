@@ -4,7 +4,6 @@
 <p align="center">
   <img width="24%" src="./me.jpg" />
 </p>
-<hr/>
 
 <h2 align="left">Contacts</h2>
 
