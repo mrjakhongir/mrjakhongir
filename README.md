@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahongir</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
-<p align="left">
+<p align="center">
   <img width="24%" src="./me.jpg" />
 </p>
 <hr/>
