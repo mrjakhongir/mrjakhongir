@@ -24,11 +24,7 @@
 <h2 align="left">Currently</h2>
 <h4>Working on:</h4>
 
-- Finance ERP - udevs.io fincance. Tech Stack: React | Chakra UI | SCSS | Zustand | Tanstack Query | AG Grid
-
- <h4>Studying at:</h4>
- 
- - [React Course · RS School 2025 Q3] - [link](https://wearecommunity.io/events/rs-react-2025q3)
+- MaxMeat - CRM system for meat provider, over 15000 customer, mini markets. Supabase | React | TypeScript | Telegram Mini App
 
 <h2>Projects</h2>
 
